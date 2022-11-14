@@ -1,0 +1,85 @@
+@import url("https://fonts.googleapis.com/css2?family=Mali:ital,wght@0,400;0,600;1,700&display=swap");
+
+body {
+  font-family: "Mali", cursive;
+  background-color: #17202a;
+  margin: 0;
+}
+
+h1 {
+  font-size: 6.5rem;
+  color: #ffa07a;
+  font-weight: 700;
+  font-style: italic;
+  text-align: center;
+  text-shadow: 5px 0 #232931;
+  margin: 30px;
+}
+
+small {
+  color: #ffa07a;
+  font-weight: 700;
+  font-style: italic;
+  font-size: 2rem;
+}
+
+.container {
+  width: 85%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+  margin: 10px;
+}
+
+p {
+  font-size: 2rem;
+  color: #4ecca3;
+  font-family: "Mali", cursive;
+}
+
+img {
+  width: 30%;
+}
+
+.dice img {
+  width: 30%;
+}
+
+.social-link {
+  margin-top: 300px;
+  text-align: center;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 70px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+
+.fa:hover {
+  opacity: 0.7;
+  color: #ffa07a;
+}
+
+.fa-github {
+  background: #1c2833;
+  color: white;
+}
+
+.fa-facebook {
+  background: #3b5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55acee;
+  color: white;
+}
